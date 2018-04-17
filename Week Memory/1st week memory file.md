@@ -17,7 +17,7 @@ Brainstorming Team
 
 ---
 
-### Project 회의 내용
+### Results of the project meeting
 
 ```
 구체적 목표 :
