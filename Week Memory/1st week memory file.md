@@ -16,7 +16,6 @@ Brainstorming Team
 ```
 
 ---
----
 
 ### Project 회의 내용
 
